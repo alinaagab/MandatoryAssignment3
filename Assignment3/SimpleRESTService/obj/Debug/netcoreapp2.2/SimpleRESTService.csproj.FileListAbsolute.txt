@@ -1,0 +1,17 @@
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\SimpleRESTService.deps.json
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\SimpleRESTService.runtimeconfig.json
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\SimpleRESTService.runtimeconfig.dev.json
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\SimpleRESTService.dll
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.RazorAssemblyInfo.cache
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.RazorAssemblyInfo.cs
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.AssemblyInfo.cs
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.RazorTargetAssemblyInfo.cache
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\SimpleRESTService.pdb
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.dll
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.pdb
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\Assignment3.dll
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\bin\Debug\netcoreapp2.2\Assignment3.pdb
+C:\Users\Alina\Desktop\Ass3\Assignment3\SimpleRESTService\obj\Debug\netcoreapp2.2\SimpleRESTService.csproj.CopyComplete
